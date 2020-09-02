@@ -10,6 +10,11 @@
     margin-bottom: 15px;
   }
 
+  .container { 
+    display: flex; 
+    flex-direction: row; 
+    width: 100%; 
+  } 
   .product {
     display: flex;
     flex-flow: wrap;
